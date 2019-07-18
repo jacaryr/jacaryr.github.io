@@ -1,0 +1,39 @@
+{
+  "name": "client",
+  "version": "0.1.0",
+  "homepage": "http://jacaryr.github.io/",
+  "private": true,
+  "dependencies": {
+    "@material-ui/core": "^3.9.2",
+    "@material-ui/icons": "^3.0.2",
+    "@material-ui/styles": "^3.0.0-alpha.10",
+    "@types/react": "^16.8.3",
+    "@welldone-software/why-did-you-render": "^3.0.2",
+    "axios": "^0.18.0",
+    "file-saver": "^2.0.1",
+    "gh-pages": "^2.0.1",
+    "js-cookie": "^2.2.0",
+    "react": "^16.8.1",
+    "react-dom": "^16.8.1",
+    "react-router-dom": "^5.0.0",
+    "react-scripts": "^2.1.8"
+  },
+  "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
+    "start": "BROWSER=none react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject",
+    "push": "cp .htaccess build/ && rsync -av build/ webapp.cs.clemson.edu:~/public_html"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
