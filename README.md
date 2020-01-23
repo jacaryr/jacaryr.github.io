@@ -8,7 +8,7 @@
 ---
 
 layout: post
-title:  "Welcome to my Jekyll site!"
+  title:  "Welcome to my Jekyll site!"
 ---
 
 # Welcome
