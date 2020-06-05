@@ -1,21 +1,18 @@
-# Welcome to GitHub Pages
+# J.O.B.S./Jacary Omar Business Solutions
 
 
+---
 ![Image](images/FF3E4A25-4C61-4E9B-8C6C-A318ED661809.jpg) 
-
-[WebApp](https://jacaryr.github.io/app/) 
-
+[WebApp](https://jacaryr.github.io/app/)
+---
+  "Here to provide and maintain your business with the security and flexibility of cloud integration."
 ---
 
-layout: post
-  title:  "Welcome to my Jekyll site!"
----
-
-# Welcome
-- Clemson Alumnus 
+# Clemson Alumnus 
+- Cloud and web security expert
 - Full stack developer
-- Agile Project Management Experience
-- C# and C++ are my forte 
-- experience with Java, Python, and R
+- Agile Project Management 
+- C# and C++
+- Javascript, Python, AWS 
 
 ---
