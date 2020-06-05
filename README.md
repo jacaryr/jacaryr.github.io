@@ -1,9 +1,9 @@
-# J.O.B.S./Jacary Omar Business Solutions
+# J.O.B.S. || Jacary Omar Business Solutions
 
 
 ---
 ![Image](images/FF3E4A25-4C61-4E9B-8C6C-A318ED661809.jpg) 
-[WebApp](https://jacaryr.github.io/app/)
+[Linkedin](https://linkedin.com/in/jacaryrichardson)
 ---
   "Here to provide and maintain your business with the security and flexibility of cloud integration."
 ---
