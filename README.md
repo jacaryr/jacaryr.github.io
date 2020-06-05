@@ -1,6 +1,4 @@
-# J.O.B.S. || Jacary Omar Business Solutions
 Contact: [Linkedin](https://linkedin.com/in/jacaryrichardson)|| jacaryr@g.clemson.edu
-
 
 ---
 ![Image](images/FF3E4A25-4C61-4E9B-8C6C-A318ED661809.jpg) 
